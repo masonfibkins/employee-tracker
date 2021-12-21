@@ -10,3 +10,5 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business
 ```
 
+## Mockup Video Link
+[Video Link](https://www.youtube.com/watch?v=g9uXod-wJDI)
